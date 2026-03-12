@@ -1,7 +1,7 @@
 ## gh-practice-repo
 ### GitHub CLI Assignment challenge of day 26
 
-A set of scenario based task are included to do the hands on.
+A set of scenario based tasks are included to do the hands on.
 
 A collection of GitHub CLI commandas in the file git-commands.md.
 
